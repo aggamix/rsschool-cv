@@ -46,3 +46,19 @@ console.log(spinWords("Hey fellow warriors"));
 ```
 * [My Codewars](https://www.codewars.com/users/Aggamix)
 * [My LeetCode](https://leetcode.com/aggamix/)
+
+### Work Experience:
+* **Waiter** in restaurant
+* **Shisha Master** in lounge bar
+* **Shoe repair specialist** in sneaker restoration workshop
+* **Manager** of the sneaker restoration workshop
+
+### Education:
+* Bachelor - Belarusian State Agrarian Technical University(Minsk)
+	+ Faculty of Technical Service in the Agro-Industrial Complex
+* JS/FRONT-END - RS School (studing currently)
+* Web development for beginners: HTML and CSS - Stepik
+* Git. Basic course - GeekBrains
+
+### Languages: 
+* English - Pre-Intermediate (studing currently)
