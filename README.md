@@ -1,1 +1,1 @@
-# rsschool-cv
+https://aggamix.github.io/rsschool-cv/cv
