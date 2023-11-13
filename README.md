@@ -1,1 +1,1 @@
-https://aggamix.github.io/rsschool-cv/index.html
+https://aggamix.github.io/rsschool-cv/
